@@ -14,7 +14,7 @@ export default function Home() {
     e.preventDefault();
     const term = searchInputRef.current.value;
     if (term.trim()) {
-      router.push(`/search?term=${term}`);
+      router.push(`/search?term=${term.trim()}&searchType=`);
     }
   }
   return (
