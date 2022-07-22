@@ -1,6 +1,6 @@
 # Live Version
 
-`https://nextjs-google-clone-zrakhimov.vercel.app/`
+[Click to see Live Version](https://nextjs-google-clone-zrakhimov.vercel.app/)
 
 ## Getting Started
 
